@@ -1372,23 +1372,8 @@ body {
 .dropup .dropdown-toggle::after {
   display: none;
 }
-.cid-qKhGqwPWui {
-  padding-top: 90px;
-  padding-bottom: 90px;
-  background-image: url("../../../assets/images/background3.jpg");
-}
-.cid-qKhGqwPWui .mbr-figure {
-  margin: 0 auto;
-  width: 100%;
-  display: flex;
-  justify-content: center;
-}
-.cid-qKhGqwPWui .mbr-figure img {
-  height: 100%;
-  margin: 0 auto;
-}
-@media (max-width: 991px) {
-  .cid-qKhGqwPWui .mbr-figure img {
-    width: 100% !important;
-  }
+.cid-qKhIwORqpZ {
+  padding-top: 60px;
+  padding-bottom: 60px;
+  background-image: url("../../../assets/images/mbr-1.jpg");
 }
