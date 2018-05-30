@@ -1375,7 +1375,7 @@ body {
 .cid-qQ81gbLqcQ {
   padding-top: 120px;
   padding-bottom: 120px;
-  background: linear-gradient(45deg, #5c698e, #b2ccd2);
+  background: linear-gradient(45deg, #ff7f9f, #ff7f9f);
 }
 .cid-qQ81gbLqcQ .mbr-section-subtitle {
   font-style: italic;
@@ -7466,6 +7466,18 @@ body {
 }
 .cid-qRufvz5cWo H5 {
   color: #ff7f9f;
+}
+.cid-qTyJcR2dgd {
+  padding-top: 60px;
+  padding-bottom: 60px;
+  background-color: #ffffff;
+}
+.cid-qTyJcR2dgd .mbr-text,
+.cid-qTyJcR2dgd blockquote {
+  color: #767676;
+}
+.cid-qTyJcR2dgd .mbr-text P {
+  color: #e5658a;
 }
 .cid-qRuhuQ6Lz1 .navbar {
   background: #ffffff;
